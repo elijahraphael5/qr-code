@@ -1,0 +1,48 @@
+*{
+    padding: auto;
+    margin: auto;
+    background-color: rgb(189, 217, 242);
+    font-family: poppins;
+}
+.qr_Outter{
+    margin-top: 150px;
+    height: 520px;
+    width: 350px;
+    max-width: 380px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 15px;
+}   
+.qr_Inner{
+   background-image: url(./images/image-qr-code.png);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 320px;
+   width: 320px;
+   border-radius: 9px;
+}
+.qr_Outter h1{
+    background-color: white;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: center;
+    padding-top : 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 13px;
+}
+.qr_Outter h4{
+    background-color: white;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.attribution{
+    font-size: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
